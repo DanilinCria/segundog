@@ -1,4 +1,4 @@
-Danillo - 6 - Joao davantel - 17
+Danillo Vinicius - 6 - Joao davantel - 17
 
 # RACISMO NA SOCIEDADE
 
