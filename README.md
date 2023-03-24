@@ -1,7 +1,7 @@
-Danillo - 6
-Joao davantel - 17
+Danillo - 6  Joao davantel - 17
 
-RACISMO NA SOCIEDADE
+# RACISMO NA SOCIEDADE
 
+# DESCRIÇÃO: "Não precisa ser negro para lutar contra racismo, só precisa ser humano"
 
 "Não precisa ser negro para lutar contra racismo, só precisa ser humano"
