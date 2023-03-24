@@ -4,4 +4,3 @@ Danillo - 6 - Joao davantel - 17
 
 # DESCRIÇÃO: "Não precisa ser negro para lutar contra racismo, só precisa ser humano"
 
-"Não precisa ser negro para lutar contra racismo, só precisa ser humano"
